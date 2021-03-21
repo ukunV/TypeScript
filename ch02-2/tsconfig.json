@@ -1,4 +1,5 @@
 // tsc --init
+
 {
   "compilerOptions": {
     "module": "commonjs", // 웹 브라우저에서 동작: amd, 노드제이에스에서 동작: common.js
